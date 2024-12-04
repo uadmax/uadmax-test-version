@@ -1,0 +1,18 @@
+{
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "notebook.defaultFormatter": "esbenp.prettier-vscode",
+  "iap-p.configs": {}
+}
+"printWidth": 80,
+"tabWidth": 2,
+"useTabs": false,
+"semi": true,
+"singleQuote": true,
+"trailingComma": "all",
+"bracketSpacing": true,
+"jsxBracketSameLine": false,
+"arrowParens": "avoid",
+"proseWrap": "always"
